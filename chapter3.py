@@ -1,2 +1,2 @@
 print("hello surya")
-print("HI")
+print("Hellow every one")
